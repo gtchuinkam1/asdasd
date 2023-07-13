@@ -1,0 +1,16 @@
+name: asdasd
+id: ari:cloud:compass:7e5f31d1-8ee4-4398-90a6-096d909dc040:component/2a01446d-23f0-4af7-95c4-00fc26ca8a8e/375ed0f1-cba9-4651-aa9d-8a187e08a2e5
+description: sdasdasdasdadsad
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/gtchuinkam1/asdasd
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
